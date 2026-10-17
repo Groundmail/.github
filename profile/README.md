@@ -53,6 +53,7 @@ Or let your coding agent do it: `npx skills add Groundmail/groundmail-skills -y`
 | **CLI** | [`groundmail-cli`](https://www.npmjs.com/package/groundmail-cli) |
 | **MCP server** for Claude, ChatGPT and Cursor | [groundmail-mcp](https://github.com/Groundmail/groundmail-mcp) · hosted at `https://mcp.groundmail.dev/mcp` |
 | **Agent skills** and Claude Code plugin | [groundmail-skills](https://github.com/Groundmail/groundmail-skills) |
+| **Email templates** in React Email, MJML and HTML | [email-templates](https://github.com/Groundmail/email-templates) · [preview](https://groundmail.github.io/email-templates/) |
 
 ### Why Groundmail
 
