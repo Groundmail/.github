@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://groundmail.dev">
+  <a href="https://groundmail.dev?utm_source=github&utm_medium=readme&utm_campaign=org-profile">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://app.groundmail.dev/images/github/readme-logo-dark.png">
       <img alt="Groundmail" src="https://app.groundmail.dev/images/github/readme-logo-light.png" height="48">
@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <a href="https://groundmail.dev">Website</a> ·
-  <a href="https://docs.groundmail.dev">Docs</a> ·
-  <a href="https://groundmail.dev/pricing">Pricing</a> ·
-  <a href="https://app.groundmail.dev/signup">Sign up free</a>
+  <a href="https://groundmail.dev?utm_source=github&utm_medium=readme&utm_campaign=org-profile">Website</a> ·
+  <a href="https://docs.groundmail.dev?utm_source=github&utm_medium=readme&utm_campaign=org-profile">Docs</a> ·
+  <a href="https://groundmail.dev/pricing?utm_source=github&utm_medium=readme&utm_campaign=org-profile">Pricing</a> ·
+  <a href="https://app.groundmail.dev/signup?utm_source=github&utm_medium=readme&utm_campaign=org-profile">Sign up free</a>
 </p>
 
 ---
@@ -60,4 +60,4 @@ Or let your coding agent do it: `npx skills add Groundmail/groundmail-skills -y`
 - **Our own infrastructure.** Our own mail servers and IP space, not a resold shared pool.
 - **Transactional only.** No newsletters or cold outreach on the platform.
 - **Start free.** 3,000 emails a month free; Pro is 50,000 for $20/month; dedicated IPs on Scale.
-- **Switching?** Migration guides for [SendGrid](https://docs.groundmail.dev/migration/sendgrid), [Postmark](https://docs.groundmail.dev/migration/postmark) and [Amazon SES](https://docs.groundmail.dev/migration/ses).
+- **Switching?** Migration guides for [SendGrid](https://docs.groundmail.dev/migration/sendgrid?utm_source=github&utm_medium=readme&utm_campaign=org-profile), [Postmark](https://docs.groundmail.dev/migration/postmark?utm_source=github&utm_medium=readme&utm_campaign=org-profile) and [Amazon SES](https://docs.groundmail.dev/migration/ses?utm_source=github&utm_medium=readme&utm_campaign=org-profile).
