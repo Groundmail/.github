@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <strong>Transactional email, on solid ground.</strong><br>
-  Password resets, receipts and alerts, sent from our own mail servers and our own IP space.
+  <strong>Email infrastructure for apps and AI agents.</strong><br>
+  Send and receive email from your app or AI agent.
 </p>
 
 <p align="center">
@@ -41,6 +41,14 @@ await groundmail.emails.send({
 ```
 
 Or let your coding agent do it: `npx skills add Groundmail/groundmail-skills -y`, then ask it to "add Groundmail to this app".
+
+### Give your agent an email address
+
+```bash
+npx groundmail-cli mailboxes create --instant
+```
+
+That's a real address your agent can read and reply from, with no account or DNS needed to start. Mail can wake your agent by webhook, and you choose who's allowed to reach it.
 
 ### Libraries and tools
 
