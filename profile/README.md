@@ -65,7 +65,8 @@ That's a real address your agent can read and reply from, with no account or DNS
 
 ### Why Groundmail
 
-- **Our own infrastructure.** Our own mail servers and IP space, not a resold shared pool.
-- **Transactional only.** No newsletters or cold outreach on the platform.
-- **Start free.** 3,000 emails a month free; Pro is 50,000 for $20/month; dedicated IPs on Scale.
+- **Separate streams.** Your sign-in codes never wait behind a newsletter.
+- **Everything around sending.** Inbound, templates, automations, webhooks and agent mailboxes.
+- **We run the servers.** Our own mail servers and IP space, so we can see and fix delivery problems ourselves.
+- **Start free.** 3,000 emails a month, no time limit. Then $15 a month with 20,000 emails included.
 - **Switching?** Migration guides for [SendGrid](https://docs.groundmail.dev/migration/sendgrid?utm_source=github&utm_medium=readme&utm_campaign=org-profile), [Postmark](https://docs.groundmail.dev/migration/postmark?utm_source=github&utm_medium=readme&utm_campaign=org-profile) and [Amazon SES](https://docs.groundmail.dev/migration/ses?utm_source=github&utm_medium=readme&utm_campaign=org-profile).
